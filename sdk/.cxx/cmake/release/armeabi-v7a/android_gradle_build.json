@@ -1,0 +1,39 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "E:\\Android\\git\\Emotiary\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "E:\\Android\\git\\Emotiary\\sdk\\.cxx\\cmake\\release\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "E:\\Android\\git\\Emotiary\\sdk\\.cxx\\cmake\\release\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Release-armeabi-v7a": {
+      "buildCommandComponents": [
+        "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "E:\\Android\\git\\Emotiary\\sdk\\.cxx\\cmake\\release\\armeabi-v7a",
+        "opencv_jni_shared"
+      ],
+      "buildType": "release",
+      "abi": "armeabi-v7a",
+      "artifactName": "opencv_jni_shared",
+      "output": "E:\\Android\\git\\Emotiary\\sdk\\.cxx\\cmake\\release\\armeabi-v7a\\libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

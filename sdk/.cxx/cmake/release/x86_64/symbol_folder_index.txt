@@ -1,0 +1,1 @@
+E:\Android\git\Emotiary\sdk\build\intermediates\cmake\release\obj\x86_64

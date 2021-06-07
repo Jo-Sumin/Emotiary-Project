@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Emotiary_Multimedia\\app\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Emotiary_Multimedia\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Emotiary_Multimedia\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "detection_based_tracker-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\Home\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Emotiary_Multimedia\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "detection_based_tracker"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "detection_based_tracker",
+      "output": "C:\\Emotiary_Multimedia\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libdetection_based_tracker.so",
+      "runtimeFiles": [
+        "C:\\Emotiary_Multimedia\\sdk\\native\\libs\\arm64-v8a\\libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+include ':app'
+rootProject.name = "Emotiary_Multimedia"
+
+
+def opencvsdk="./"
+include ':opencv'
+project(':opencv').projectDir = new File(opencvsdk + '/sdk')

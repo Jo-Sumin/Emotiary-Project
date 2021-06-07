@@ -1,0 +1,1 @@
+C:\Emotiary_Multimedia\app\jni\CMakeLists.txt

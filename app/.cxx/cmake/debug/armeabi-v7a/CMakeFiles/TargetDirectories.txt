@@ -1,0 +1,3 @@
+C:/Emotiary_Multimedia/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/detection_based_tracker.dir
+C:/Emotiary_Multimedia/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Emotiary_Multimedia/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

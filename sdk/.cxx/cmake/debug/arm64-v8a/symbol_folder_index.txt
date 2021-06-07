@@ -1,0 +1,1 @@
+C:\Emotiary_Multimedia\sdk\build\intermediates\cmake\debug\obj\arm64-v8a
